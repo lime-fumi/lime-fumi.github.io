@@ -72,7 +72,7 @@ main {
   /*imgと高さなど*/
   background-image: url(..//images/kv.jpg);
   position: relative;
-  height: 100vh;
+  height: 75vh;
 }
 
 .header .logo {
